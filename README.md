@@ -78,11 +78,11 @@ Decrypt:
 ## 📁 Project structuretext
 
 - DNK-2/
-- ├── dnk2.py              # Encrypter/Decryptor
-- ├── SPECIFICATION.md     # Full algorithm specification (ENG)
-- ├── RUS_SPECIFICATION.md # Full algorithm specification (RUS)
-- ├── README.md            # This file
-- └── requirements.txt     # Dependencies
+- ├── dnk2.py               # Encrypter/Decryptor
+- ├── SPECIFICATION.md      # Full algorithm specification (ENG)
+- ├── RUS_SPECIFICATION.txt # Full algorithm specification (RUS)
+- ├── README.md             # This file
+- └── requirements.txt      # Dependencies
 
 ## 🧪 Example
 
