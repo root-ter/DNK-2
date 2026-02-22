@@ -79,7 +79,8 @@ Decrypt:
 
 - DNK-2/
 - ├── dnk2.py              # Encrypter/Decryptor
-- ├── SPECIFICATION.md     # Full algorithm specification
+- ├── SPECIFICATION.md     # Full algorithm specification (ENG)
+- ├── RUS_SPECIFICATION.md # Full algorithm specification (RUS)
 - ├── README.md            # This file
 - └── requirements.txt     # Dependencies
 
